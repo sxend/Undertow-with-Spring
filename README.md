@@ -1,3 +1,3 @@
-Scala-Template
+Undertow-with-Spring
 =======
 
